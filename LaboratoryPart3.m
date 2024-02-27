@@ -6,7 +6,7 @@ close all
 
 syms t s
 
-%% Laplace Act 2
+%% Laplace Assignment 2
 
 f7 = 1/(s*((s^2)+(2*s)+2));
 F7 = ilaplace(f7)
