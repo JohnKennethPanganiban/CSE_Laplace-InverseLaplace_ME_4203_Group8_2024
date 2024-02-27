@@ -21,3 +21,18 @@ Assignment 2
 ![TY_3](https://github.com/triciadbrjaa/CSE_Laplace-InverseLaplace_ME_4203_Group8_2024/assets/161011837/eb26115f-03d0-4ced-ab49-a3e6ebf79c6d)
 ![TY_4](https://github.com/triciadbrjaa/CSE_Laplace-InverseLaplace_ME_4203_Group8_2024/assets/161011837/733a0cc4-a1d7-4906-a9bb-994a14e62c24)
 
+Azucena, Keith Syrell
+Assignment 1
+![KS_1](https://github.com/KeithSyrellAzucena/CSE_Laplace-InverseLaplace_ME_4203_Group8_2024/assets/159856389/f3c9445b-e2d0-477d-8116-00b9fb344a46)
+
+Assignment 2
+![KS_2](https://github.com/KeithSyrellAzucena/CSE_Laplace-InverseLaplace_ME_4203_Group8_2024/assets/159856389/9031c045-cbb4-49ac-b009-b73b113667e0)
+![KS_3](https://github.com/KeithSyrellAzucena/CSE_Laplace-InverseLaplace_ME_4203_Group8_2024/assets/159856389/71be9692-e4b1-4a5a-835a-4484772423d6)
+
+
+
+
+
+
+
+
