@@ -3,7 +3,6 @@ clear
 clc
 close all
 
-a = factorial(4)
 
 syms t s
 %% Laplace Transform
